@@ -1,0 +1,16 @@
+PODS:
+  - WOWRateView (0.1.0)
+
+DEPENDENCIES:
+  - WOWRateView (from `../`)
+
+EXTERNAL SOURCES:
+  WOWRateView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WOWRateView: 729e0a679dfc45a78b29e2bcda7003de4e92dfe4
+
+PODFILE CHECKSUM: 0cd43bad6ab198e5c06923ce527501755ef7c11a
+
+COCOAPODS: 1.2.0.beta.1

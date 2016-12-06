@@ -1,0 +1,6 @@
+framework module WOWRateView {
+  umbrella header "WOWRateView-umbrella.h"
+
+  export *
+  module * { export * }
+}

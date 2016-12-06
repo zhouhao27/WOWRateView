@@ -27,3 +27,8 @@ Zhou Hao, zhou.hao.27@gmail.com
 ## License
 
 WOWRateView is available under the MIT license. See the LICENSE file for more info.
+
+## TODO
+
+- Inspectable
+- Designable
