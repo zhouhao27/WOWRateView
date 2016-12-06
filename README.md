@@ -11,6 +11,9 @@ Migrate to Swift 3.0 from [RateView](https://github.com/taruntyagi697/RateView).
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+<img src="screenshots/screenshot1.jpg" width="300">
+<img src="screenshots/screenshot2.jpg" width="300">
+
 ## Requirements
 
 ## Installation
