@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WOWRateView_Example' do
+  pod 'WOWRateView', :path => '../'
+
+  target 'WOWRateView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
