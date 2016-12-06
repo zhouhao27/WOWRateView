@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/WOWRateView.svg?style=flat)](http://cocoapods.org/pods/WOWRateView)
 [![Platform](https://img.shields.io/cocoapods/p/WOWRateView.svg?style=flat)](http://cocoapods.org/pods/WOWRateView)
 
+Migrate to Swift 3.0 from [RateView](https://github.com/taruntyagi697/RateView). But has not been fully tested yet.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -32,3 +34,4 @@ WOWRateView is available under the MIT license. See the LICENSE file for more in
 
 - Inspectable
 - Designable
+- Travis CI Integration
